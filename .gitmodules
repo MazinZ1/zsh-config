@@ -1,0 +1,3 @@
+[submodule "plugins/rust"]
+	path = plugins/rust
+	url = git@github.com:rust-lang/zsh-config.git
